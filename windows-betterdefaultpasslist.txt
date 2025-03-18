@@ -25,3 +25,8 @@ openhabian:openhabian
 vagrant:vagrant
 Administrator:vagrant
 john:Password123!
+vagrant:vagrant
+Vagrant:vagrant
+Vagrant:Vagrant
+vagrant:Vagrant
+VAgrant:VAgrant
